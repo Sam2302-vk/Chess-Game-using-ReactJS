@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chess-Game-using-ReactJS/static/css/main.d1cf77bb.css",
+    "main.js": "/Chess-Game-using-ReactJS/static/js/main.9a52d4bf.js",
+    "index.html": "/Chess-Game-using-ReactJS/index.html",
+    "main.d1cf77bb.css.map": "/Chess-Game-using-ReactJS/static/css/main.d1cf77bb.css.map",
+    "main.9a52d4bf.js.map": "/Chess-Game-using-ReactJS/static/js/main.9a52d4bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1cf77bb.css",
+    "static/js/main.9a52d4bf.js"
+  ]
+}
