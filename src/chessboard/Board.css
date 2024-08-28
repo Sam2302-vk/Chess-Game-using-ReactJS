@@ -1,0 +1,23 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    align-items: center;
+}
+
+td{
+    border:2px solid black;
+    height:50px;
+    width: 50px;
+    
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+.chess{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
